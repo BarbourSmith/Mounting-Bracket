@@ -139,8 +139,8 @@
         {
             "atomType": "Molecule",
             "name": "Body",
-            "x": 0.5141811527904849,
-            "y": 0.7900763358778625,
+            "x": 0.5132662397072278,
+            "y": 0.7633587786259541,
             "uniqueID": 392880,
             "ioValues": [],
             "topLevel": false,
@@ -484,6 +484,20 @@
                     ]
                 },
                 {
+                    "atomType": "Color",
+                    "name": "Color",
+                    "x": 0.8435498627630375,
+                    "y": 0.4427480916030534,
+                    "uniqueID": 178599,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": "atoms/157861/392880/191770Tag"
+                        }
+                    ],
+                    "selectedColorIndex": "5"
+                },
+                {
                     "atomType": "Tag",
                     "name": "Add Tag",
                     "x": 0.7218664226898446,
@@ -509,7 +523,7 @@
                     "ioValues": [
                         {
                             "name": "number or geometry",
-                            "ioValue": "atoms/157861/392880/191770Tag"
+                            "ioValue": "atoms/157861/392880/178599Color"
                         }
                     ]
                 }
@@ -568,8 +582,15 @@
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap2Primary": false,
-                    "ap1ID": 191770,
+                    "ap1ID": 178599,
                     "ap2ID": 838026
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 191770,
+                    "ap2ID": 178599
                 }
             ],
             "fileTypeVersion": 1,
