@@ -2,6 +2,8 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|M6 Nut|1|$0.03|https://www.mcmaster.com/90592A016/|
+|M8 Shoulder Bolt|1|$1.74|https://www.mcmaster.com/92981A204/|
+|Total: |2|$1.77| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $5.30
