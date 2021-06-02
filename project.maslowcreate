@@ -8,6 +8,16 @@
     "topLevel": true,
     "allAtoms": [
         {
+            "atomType": "GitHubMolecule",
+            "name": "M8 Shoulder Bolt",
+            "x": 0.18572735590118938,
+            "y": 0.5419847328244275,
+            "uniqueID": 774121,
+            "projectID": "373247921",
+            "ioValues": [],
+            "simplify": false
+        },
+        {
             "atomType": "Output",
             "name": "Output",
             "x": 0.9817017383348581,
